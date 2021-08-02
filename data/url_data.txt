@@ -24,3 +24,4 @@
 {"id":"gFZ3sdw3I","url":"http://hii.lk","shortenURL":"http://localhost:5000/gFZ3sdw3I"}
 {"id":"UFwNAAhbl","url":"http://dinesh.jk","shortenURL":"http://localhost:5000/UFwNAAhbl"}
 {"id":"kQaBwFTy_","url":"http://dineshkhoja.com","shortenURL":"http://localhost:5000/kQaBwFTy_"}
+{"id":"8eZo_YX3F","url":"http://amazon.in","shortenURL":"http://localhost:5000/8eZo_YX3F"}
