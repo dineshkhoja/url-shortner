@@ -3,7 +3,7 @@
 
 ### Running into your system
 #### How to run
-- Prerequestie
+- Prerequesties
   - `node`
   - `npm`
 - Clone repository to your system and follow below listed commands
