@@ -28,6 +28,11 @@ docker-compose up --build -d
 
 #### Use the application
 - Open `http://localhost:3000`
+![Home view](./data/home.png "Home")
 - Give your URL and submit
-- Open given shortened URL
-- You will be able to open your given page itself
+![Result view](./data/result.png "Result")
+- Get shortened URL
+![Error view](./data/error.png "Error")
+- Copy shortened URL by Clicking to `Copy` button
+![Copied view](./data/copied.png "Copied")
+- You will be able to open your given page itself using this shortened URL
