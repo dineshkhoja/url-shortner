@@ -1,13 +1,11 @@
 ## URL shortner
 - Accepts your working URL and provide shortened and abstract URL(doesn't contain info about your URL) and someone can visit your URL view by using this shortened URl.
 
-
 ### Running into your system
-#### Prerequestie
-- Node
-- NPM
-
 #### How to run
+- Prerequestie
+  - `node`
+  - `npm`
 - Clone repository to your system and follow below listed commands
 ```sh
 cd <repository directory>
@@ -33,4 +31,3 @@ docker-compose up --build -d
 - Give your URL and submit
 - Open given shortened URL
 - You will be able to open your given page itself
-
